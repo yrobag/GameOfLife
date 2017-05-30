@@ -1,0 +1,79 @@
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td{
+    border: black 1px solid;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+}
+
+.existed {
+      background-color: #cccccc;
+}
+
+.live {
+    background-color: #2C6700!important;
+}
+
+.container{
+    border: solid 4px #2C6700 ;
+    text-align: center;
+    background-color: #FFCF79;
+    display: inline-block;
+    margin: 0 auto;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.settings{
+    text-align: left;
+    width: inherit;
+}
+
+.normal-input{
+    width: 50px;
+}
+
+.rules-input{
+    width: 75px;
+}
+
+button{
+    width: 150px;
+    color: inherit;
+}
+
+
+body{
+    background-color: #E5E4D7;
+    text-align: center;
+}
+
+
+.form-element{
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px #2C6700;
+    padding: 5px;
+}
+
+button, select{
+    background-color: #F6F5E8;
+}
+
+.manual{
+    display: none;
+    position: fixed;
+    background-color: #F6F5E8;
+    border: 2px solid brown;
+    border-radius: 5px;
+    width: inherit;
+    top: 10px;
+}
+
+
+
+
+
